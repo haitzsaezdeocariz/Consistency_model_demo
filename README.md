@@ -1,3 +1,5 @@
+# Consistency model training on MNIST
+
 This is a demo for training consistency models on MNIST.
 
 The code is adapted from Yang Song et al and FastAI.
